@@ -10,7 +10,7 @@ If you want to try out the this app, first you have to create and configure a Fi
 * make sure , you have configure the device you want to test the app (either ios simulator or android emulator)
 * Run the app using the command on terminal: flutter clean && flutter run
 
-## screenshots
+## Here are Few screenshots
 
 ![p1](https://user-images.githubusercontent.com/46978582/123991528-0950c500-d988-11eb-88a2-ffe738694de5.png)
 
