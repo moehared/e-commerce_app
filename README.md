@@ -3,7 +3,7 @@
 ## Usage 
 
 If you want to try out the this app, first you have to create and configure a Firebase project:
-* Clone the project:  https://github.com/moehared/ENSE-405-ClimateAwareness.git 
+* Clone the project:  https://github.com/moehared/e-commerce_app 
 * Create a new Firebase project from the [console](https://console.firebase.google.com)
 * Configure the Firebase for each platform.
 * go to the app directory :  cd app
